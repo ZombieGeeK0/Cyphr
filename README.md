@@ -1,1 +1,3 @@
 # Cyphr
+
+`[-] Install in `

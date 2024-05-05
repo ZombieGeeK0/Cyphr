@@ -7,7 +7,5 @@ git clone https://github.com/ZombieGeeK0/Cyphr.git && cd Cyphr && sudo bash inst
 ```
 `[-] Install on Windows:`
 
-```shell
-# after download and unzip the repository:
-python3 main.py
-```
+- Download and unzip the repository
+- `cd Cyphr & python cyphr.py`
